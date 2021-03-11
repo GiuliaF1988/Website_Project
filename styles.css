@@ -12,10 +12,9 @@ body {
     line-height: 2.5em;
     font-family: 'Merriweather Sans', sans-serif;
     font-weight: 300;
-    
     text-align: center;
-    
-}
+ }
+
 #wrapper{
     max-width: 100%;
     margin: 0;
@@ -23,24 +22,24 @@ body {
 
 .menu{
     margin: 0;
-        background-color: #00542a;
+    background-color: #00542a;
     box-shadow: 0em 0.5em 1em 0em #808080;
-    
-}
+  }
+
 .menu li{
     display: inline-flex;
-    height: 0.2em;
-    
-    
+    height: 0.2em; 
 }
+
 nav a{
-        font-family:'verdena';
+    font-family:'verdena';
     font-size: 1em;
     padding: 8px;
     color: white;
-        text-align: center;
+    text-align: center;
     text-decoration: none;
 }
+
 li a:hover {
     background-color: #99cfb4;
     color: white;
@@ -51,31 +50,32 @@ nav a.active {
   background-color: #99cfb4;
   color: color;
 }
+
 h1{
-	margin-top: 1.5em;
+    margin-top: 1.5em;
     margin-bottom: 1em;
     margin-left: 0;
     margin-right: 0;
-	color:black;
-	font-family:'Brandon Grotesque';
-        font-size: 2.5em;
-       font-weight: bold;
+    color:black;
+    font-family:'Brandon Grotesque';
+    font-size: 2.5em;
+    font-weight: bold;
 }
-h2{
 
-            font-size: 1.5em;
+h2{
+    font-size: 1.5em;
     font-weight: 700;
     font-family: 'Merriweather Sans', sans-serif;
 }
+
 #content{
     margin-bottom: 10em;
     margin-top: 2em;
     margin-left: 15em;
     margin-right: 15em;
-        text-align: left;
+    text-align: left;
     font-family: 'Merriweather Sans', sans-serif;
     font-weight: 300;
-        
     font-size: 16px;
     }
 
